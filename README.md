@@ -28,6 +28,7 @@
 ```bash
 git clone https://github.com/MohammadrezaAmani/TextToSpeech-Kivy
 cd TextToSpeech-Kivy
+pip install -r requirements.txt
 python3 main/TextToSpeech.py
 ```
 - for saving the auto without playing use save button

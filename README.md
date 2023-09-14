@@ -2,8 +2,6 @@
 
 
 
-
-![home screen]()
 <p align="center">
     <a>
         <img src="./assets/Home2023-09-14%2019-27-11.png" alt="TextToSpeech-Kivy" width="256">

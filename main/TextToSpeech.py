@@ -30,7 +30,7 @@ BoxLayout:
     orientation: 'vertical'
     MDTopAppBar:
         title: "Text to Speech"
-        elevation: 10
+        elevation: 3
     ScrollView:
         MDList:
             id: list

@@ -1,0 +1,4 @@
+kivy
+kivymd
+gTTs
+playsound
